@@ -7,7 +7,6 @@ tags:
   - tehillim
   - ketuvim
   - tanakh
-draft: false
 ---
 
 
