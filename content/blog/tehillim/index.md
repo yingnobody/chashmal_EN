@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: index tehillim
 ---
 index tehillim
