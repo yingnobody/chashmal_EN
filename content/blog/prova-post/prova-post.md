@@ -1,15 +1,6 @@
 ---
-draft: true
-title: asdfasdfasdfasd
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
-authors:
-  - admin
-tags:
-  - Hugo Blox
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+draft: false
+title: prova post
 ---
 
 1 A song of David. The Lord is my shepherd; I shall not want.
