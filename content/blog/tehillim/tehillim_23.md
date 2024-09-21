@@ -3,7 +3,7 @@ draft: false
 title: tehillim - 23
 authors:
   - admin
-tags:
+categories:
   - tehillim
   - ketuvim
   - David the king
