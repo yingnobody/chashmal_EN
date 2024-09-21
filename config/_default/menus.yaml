@@ -13,11 +13,11 @@ main:
 
 - name: Tehillim
     identifier: categories
-    weight: 20
+    weight: 30
 - name: Tehillim
     parent: categories
     url: categories/tehillim/
-    weight: 10
+    weight: 40
 #  - name: Uses
 #    url: uses/
 #    weight: 30
