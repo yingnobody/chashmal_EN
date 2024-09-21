@@ -4,9 +4,9 @@ title: tehillim - 23
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - tehillim
+  - ketuvim
+  - David the king
 ---
 
 tehillim chapter 23
