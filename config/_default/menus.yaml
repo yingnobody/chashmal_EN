@@ -7,7 +7,13 @@ main:
     weight: 10
   - name: Topics
     url: categories/
+    identifier:categories
     weight: 20
+
+- name: Tehillim
+    parent: categories
+    url: categories/tehillim/
+    weight: 10
 #  - name: Uses
 #    url: uses/
 #    weight: 30
