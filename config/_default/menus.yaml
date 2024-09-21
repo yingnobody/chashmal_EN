@@ -11,13 +11,13 @@ main:
     weight: 20
   - name: Tehillim
     parent: categories
-    url: categories/tehillim
+    pageref: categories/tehillim
     weight: 21
   - name: Parasha
     parent: categories
-    url: categories/parasha
+    pageref: categories/parasha
     weight: 22
-    
+
 #  - name: Tehillim
 #    identifier: cat_tehillim
 #    weight: 30
