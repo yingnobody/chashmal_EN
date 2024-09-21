@@ -17,6 +17,7 @@ main:
     parent: categories
     url: categories/parasha
     weight: 22
+    
 #  - name: Tehillim
 #    identifier: cat_tehillim
 #    weight: 30
