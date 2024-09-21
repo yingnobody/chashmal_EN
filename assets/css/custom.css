@@ -1,6 +1,16 @@
+
+/* text */
+
 a:hover {
     color: #fff;
     text-decoration: line-through;
     cursor: crosshair;
-
     }
+
+.he {
+  text-align: right;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+    
