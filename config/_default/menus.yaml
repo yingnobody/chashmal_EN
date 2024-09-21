@@ -6,7 +6,7 @@ main:
     url: /
     weight: 10
   - name: Topics
-    url: tags/
+    url: categories/
     weight: 20
 #  - name: Uses
 #    url: uses/
