@@ -38,7 +38,7 @@ highlight_name: true
 # website: ""
 ---
 
-> And I saw, and behold, a tempest was coming from the north, a huge cloud and a flaming fire with a brightness around it; and from its midst, it was like the color of the chashmal from the midst of the fire.
+> .. a tempest was coming from the north, a huge cloud and a flaming fire with a brightness around it; and from its midst, it was like the color of the chashmal from the midst of the fire.
 
 [Yechezkel 1:4]
 
