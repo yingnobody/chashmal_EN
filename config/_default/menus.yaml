@@ -9,10 +9,15 @@ main:
     url: categories/
     identifier:categories
     weight: 20
+
+
+- name: Tehillim
+    identifier: categories
+    weight: 20
 - name: Tehillim
     parent: categories
     url: categories/tehillim/
-    weight: 30
+    weight: 10
 #  - name: Uses
 #    url: uses/
 #    weight: 30
