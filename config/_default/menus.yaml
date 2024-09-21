@@ -1,21 +1,18 @@
 # Navigation Links
-#   The weight parameter defines the order that the links will appear in.
+# The weight parameter defines the order that the links will appear in.
 
 main:
   - name: Home
     url: /
     weight: 10
-
   - name: Topics
     url: categories/
     identifier: categories
     weight: 20
-
-- name: Tehillim
+  - name: Tehillim
     identifier: categories
     weight: 30
-
-- name: Tehillim
+  - name: Tehillim
     parent: categories
     url: categories/tehillim/
     weight: 40
