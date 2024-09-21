@@ -1,6 +1,12 @@
 ---
 draft: false
-title: tehillim - terzo post
+title: tehillim - 23
+authors:
+  - admin
+tags:
+  - Hugo
+  - Hugo Blox
+  - Markdown
 ---
 
-terzo post dentro tehillim
+tehillim chapter 23
