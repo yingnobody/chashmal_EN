@@ -12,7 +12,7 @@ main:
   - name: Tehillim
     identifier: categories
     weight: 30
-  - name: Tehillim
+  - name: Tehillims
     parent: categories
     url: categories/tehillim/
     weight: 40
