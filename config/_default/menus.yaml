@@ -8,7 +8,7 @@ main:
 
   - name: Topics
     url: categories/
-    identifier:categories
+    identifier: categories
     weight: 20
 
 - name: Tehillim
