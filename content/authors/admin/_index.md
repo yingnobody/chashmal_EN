@@ -7,7 +7,7 @@ name_pronunciation: chashmal
 
 # Full name (for SEO)
 first_name: Ying
-last_name: nobody
+last_name: nobodY
 
 # Status emoji
 # status:

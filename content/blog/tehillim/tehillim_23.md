@@ -5,6 +5,9 @@ authors:
   - admin
 categories:
   - tehillim
+tags:
+  - tehillim_23
+  - tehillim
   - ketuvim
   - David the king
 ---

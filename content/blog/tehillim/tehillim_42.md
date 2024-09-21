@@ -5,11 +5,14 @@ authors:
   - admin
 categories:
   - tehillim
+tags:
+  - tehillim_42
+  - tehillim
   - ketuvim
   - David the king
 ---
 
-8 Abys calls to abyss to the sound of Your water channels; all Your breakers and waves passed over me.
+8 Abyss calls to abyss to the sound of Your water channels; all Your breakers and waves passed over me.
 
 
 <p class="he">
