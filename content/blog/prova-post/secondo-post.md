@@ -1,6 +1,6 @@
 ---
 draft: false
-title: secondo post
+title: prova post - secondo post
 ---
 
-testo
+secondo post dentro prova
