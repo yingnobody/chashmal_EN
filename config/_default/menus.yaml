@@ -10,7 +10,7 @@ main:
     identifier: categories
     weight: 20
   - name: Tehillim
-    identifier: categories
+    identifier: cat_tehillim
     weight: 30
   - name: Tehillims
     parent: categories
