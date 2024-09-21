@@ -1,0 +1,14 @@
+- term: Abies
+  definition: A genus of coniferous trees, properly called fir.
+  category: nature
+- term: Write the Docs
+  definition: A great place to discuss docs
+  abbr: WtD
+  category: "docs"
+- term: Mean time to repair
+  definition: The average time it takes to repair a failed component in a system
+  abbr: MTTR
+  category: "whatever"
+- term: Montiform
+  definition: Resembling a mountain in form
+  category: "nature"
