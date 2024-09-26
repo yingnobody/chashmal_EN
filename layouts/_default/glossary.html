@@ -2,7 +2,7 @@
 <ul>
   {{ range .Site.Data.glossary }}
     <li id="{{ .term | urlize }}">
-      <strong>{{ .term }}</strong>: {{ .definition }}
+      <strong>{{ .term }}</strong>: {{ .definition | safeHTML }}
       {{ if .aka }}
         <br><em>Also known as:</em>
         {{ range $index, $alias := .aka }}
