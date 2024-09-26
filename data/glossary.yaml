@@ -1,14 +1,18 @@
-- term: Abies
-  definition: A genus of coniferous trees, properly called fir.
-  category: nature
-- term: Write the Docs
-  definition: A great place to discuss docs
-  abbr: WtD
-  category: "docs"
-- term: Mean time to repair
-  definition: The average time it takes to repair a failed component in a system
-  abbr: MTTR
-  category: "whatever"
-- term: Montiform
-  definition: Resembling a mountain in form
-  category: "nature"
+- term: haShem
+  definition: the Creator of the universe
+  synonyms: 
+    - Adonay
+  category: haShem
+- term: yetzer hara
+  definition: the evil inclination. The anthagonyst inside us pushing us away from our nature in order to test us
+  synonyms:
+    - Satan
+    - malech hamavet
+    - samech mem
+  category: angels
+- term: sefer
+  definition: a book
+  category: basic
+  synonyms: 
+   - book
+- term: Satan
