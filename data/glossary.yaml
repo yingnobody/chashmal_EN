@@ -1,11 +1,11 @@
 - term: haShem
   definition: the Creator of the universe
-  synonyms: 
+  aka: 
     - Adonay
   category: haShem
 - term: yetzer hara
   definition: the evil inclination. The anthagonyst inside us pushing us away from our nature in order to test us
-  synonyms:
+  aka:
     - Satan
     - malech hamavet
     - samech mem
@@ -13,6 +13,7 @@
 - term: sefer
   definition: a book
   category: basic
-  synonyms: 
+  aka: 
    - book
 - term: Satan
+  definition: See <a href="#yetzer hara">yetzer-hara</a>.
