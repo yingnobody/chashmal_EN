@@ -1,14 +1,16 @@
-<h1>Glossary</h1>
-<ul>
-  {{ range .Site.Data.glossary }}
-    <li id="{{ .term | urlize }}">
-      <strong>{{ .term }}</strong>: {{ .definition | safeHTML }}
-      {{ if .aka }}
-        <br><em>Also known as:</em>
-        {{ range $index, $alias := .aka }}
-          {{ if $index }}, {{ end }}<a href="#{{ $alias | urlize }}">{{ $alias }}</a>
+<div class="glossary-page">
+    <h1>Glossary</h1>
+    <ul>
+        {{ range .Site.Data.glossary }}
+            <li id="{{ .term | urlize }}">
+                <strong>{{ .term }}</strong>: {{ .definition | safeHTML }}
+                {{ if .aka }}
+                    <br><em>Also known as:</em>
+                    {{ range $index, $alias := .aka }}
+                        {{ if $index }}, {{ end }}<a href="#{{ $alias | urlize }}">{{ $alias }}</a>
+                    {{ end }}
+                {{ end }}
+            </li>
         {{ end }}
-      {{ end }}
-    </li>
-  {{ end }}
-</ul>
+    </ul>
+</div>
